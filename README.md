@@ -1,8 +1,7 @@
-# React + Vite
+# React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#. The one of importent project . if you want to know about react router . then the project for you
+#. every single line and every single component file have many think about react router
+#. when you forget any think about react router the chack out this project source
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#. Thank You
